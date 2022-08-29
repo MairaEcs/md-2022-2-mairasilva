@@ -25,7 +25,7 @@ df <- data.frame(time=t, yl, yr)
 
 # Visualizar a forma de onda dos sinais 
 
-# ----- dygraph(df)%>% dyRangeSelector() %>%
+dygraph(df)%>% dyRangeSelector() %>%
 
 dyAxis("x", label = "tempo(s)") %>% 
 dyAxis("y", label = "amplitude")
@@ -54,7 +54,7 @@ dfSinal <- data.frame(time = df$time, sinal = df$yl)
 
 # Visualizar o sinal
 
-# ----- dygraph(dfSinal)%>% dyRangeSelector() %>%
+dygraph(dfSinal)%>%dyRangeSelector()%>%
 
 dyAxis("x", label = "tempo(s)") %>%
 dyAxis("y", label = "amplitude")
@@ -63,7 +63,7 @@ dyAxis("y", label = "amplitude")
 # Obtendo o sinal absoluto (módulo)
 
 sinalMod <- data.frame(time = dfSinal$time, sinalAbs = abs(dfSinal$sinal))
-# ----- dygraph(sinalMod)%>%dyRangeSelector()
+dygraph(sinalMod)%>%dyRangeSelector()
 
 # Aplicando a função smooth.spline() para suavisar o sinal
 
@@ -116,7 +116,7 @@ length(vetSinalAbs)
 
 sinalModZero <- data.frame(time = S[,1], sinalSmooth = S[,2], sinalOrig = vetSinalAbs)
 
-# ----- dygraph(sinalModZero) %>% dyRangeSelector() # equivalente dyRangeSelector(dygraph(sinalModZero)) 
+dygraph(sinalModZero)%>%dyRangeSelector() # equivalente dyRangeSelector(dygraph(sinalModZero)) 
 
 # Definindo um data frame do sinal smooth com a base de tempo em segundos
 
@@ -129,7 +129,7 @@ vetTime <- c(sinalMod$time, tTail)
 
 sinalModZero <- data.frame(time = vetTime, sinal = sinalModZero$sinalSmooth)
 
-# ----- dygraph(sinalModZero)%>%dyRangeSelector()
+dygraph(sinalModZero)%>%dyRangeSelector()
 
 # Armazenar o sinal de referência
 # Janelar o sinal e obter o sinal de referência (padrão)
