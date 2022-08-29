@@ -12,8 +12,8 @@ strFile <- paste(strPath,Fname, sep = "")
 
 ysound <- readWave(strFile)
 
-fs = ysound@samp.rate # sampling frequency in Hz
-dt = 1/fs # resolution time in seconds
+fs = ysound@samp.rate # frequência de amostragem em Hz
+dt = 1/fs # tempo de resolução em segundos
 
 yl <- ysound@left
 yr <- ysound@right
@@ -134,9 +134,9 @@ sinalModZero <- data.frame(time = vetTime, sinal = sinalModZero$sinalSmooth)
 # Armazenar o sinal de referência
 # Janelar o sinal e obter o sinal de referência (padrão)
 
-# saber o index de dfSinal$time = 3.6 e 4.2 (não)
-idxInicio = which(dfSinal$time == 7.3) # sim
-idxFim = which(dfSinal$time == 7.9) # sim
+# saber o index de dfSinal$time = 3.6 e 4.2 (sim)
+idxInicio = which(dfSinal$time == 7.3) # não
+idxFim = which(dfSinal$time == 7.9) # não
 
 # sinal smooth
 idxInicio1 = which(sinalModZero$time == 7.3)
@@ -175,32 +175,35 @@ dygraph(dfCor)
 
 # Matriz de confusão
 
-#Insatll required packages
-install.packages('caret')
+# Insatll required packages
+# install.packages('caret')
 
-#Import required library
+# Importa a biblioteca necessária
 library(caret)
 
-#Creates vectors having data points 0 - não 1 - sim
+# Cria vetores com pontos de dados
+# 0 - sim 1 - não (0.41)
 expected_value <- factor(c(0,0,1,0,1,1,1,0,0,1))
-predicted_value <- factor(c(1,0,0,1,1,1,0,0,0,1))
+predicted_value <- factor(c(0,0,1,0,1,1,0,0,0,0))
 
-#Creating confusion matrix
+# Criando matriz de confusão
 example <- confusionMatrix(data=predicted_value, reference=expected_value)
 
-#Display results 
+# Exibindo os resultados
 example
 
-table(expected_value,predicted_value)
+table(expected_value, predicted_value)
 
-#install required packages
-install.packages('gmodels')
-#import required library 
+# instalando os pacotes necessários
+# install.packages('gmodels')
+# Importa a biblioteca necessária
 library(gmodels)
 
-#Computes the crosstable calculations
-CrossTable(expected_value,predicted_value)
+# Computa os cálculos da tabela cruzada
+CrossTable(expected_value, predicted_value)
 
-Accuracy = (3 + 4) / (3+2+1+4)
+accuracy = (5+3) / (5+0+2+3)
+accuracy
 
-Error rate = (2+1) / (3+2+1+4) 
+errorRate = (2+0) / (5+0+2+3)
+errorRate
