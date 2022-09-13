@@ -1,0 +1,171 @@
+MINERAÇÃO DE DADOS: O QUE É E COMO FUNCIONA O DATA MINING
+
+A mineração de dados é uma forma de extrair dados relevantes em meio a tanta informação.
+
+No mundo atual, com a popularização da internet, passamos diariamente por uma descarga de informações muito densa, mesmo que conscientemente não tenhamos essa percepção.
+
+As redes sociais, por exemplo, colocam muitos dados a nossa frente em uma simples deslizada no feed de notícias. Nem sempre os conteúdos são relacionados ao que nos interessa, portanto temos a opção de filtrar tudo isso, seguindo apenas as páginas e pessoas que condizem com nosso gosto.
+
+Para as empresas, a necessidade de selecionar o que realmente importa ou não é muito maior. 
+
+Isso porque as informações desse grande volume de dados, o Big Data, são essenciais para a construção de uma estratégia de sobrevivência, de competitividade no mercado.
+
+Selecionar o que é mais relevante é um desafio, e é daí que surge o conceito de mineração de dados.
+
+Se você ainda não sabe o que mineração de dados ou nunca ouviu falar nesse termo, este texto é para você. Vamos explicar o conceito, sua importância para os negócios, as técnicas utilizadas e o papel da TI em tudo isso.
+
+Confira!
+
+O que é mineração de dados?
+A mineração de dados, ou em inglês, Data Mining, é um processo bem parecido com aquele em que o garimpeiro precisa separar as pepitas de ouro da lama e de outras pedras sem valor.
+
+A mineração de dados é examinar um grande volume de informações, passando-as em uma peneira tecnológica que revela padrões consistentes e informações úteis para necessidades específicas do negócio.
+
+Este é o primeiro passo para validar uma estratégia realmente útil, e é claro que, apenas com a capacidade humana, essa tarefa seria impossível. 
+
+Isso acontece porque a internet já superou as expectativas do homem e já não é possível dominá-la sem a ajuda de outras ferramentas igualmente potentes.
+
+Dessa forma, podemos dizer que a mineração de dados é um dos elementos da transformação digital, tão importante para empresas de qualquer setor.
+
+Nas empresas, a mineração de dados é bem disseminada e usada por uma grande variedade de setores, que vão do financeiro ao varejo, por exemplo.
+
+Navegando por diferentes sites, os dados do usuário são coletados com base naqueles visitados, considerando também as pesquisas feitas, os dados pessoais inseridos e os produtos que são explorados.
+
+Utilizando algoritmos de aprendizagem e com uma rapidez considerável, a mineração de dados é o sistema baseado em machine learning que consegue evidenciar, com base nessas informações coletadas, tendências de consumo e interação geradas pelos potenciais clientes.
+
+Assim, um dos setores que podemos indicar como beneficiado pela técnica da mineração de dados é o responsável pelo marketing das empresas. 
+
+Em resumo, a mineração de dados é uma técnica automatizada com o objetivo de filtrar o Big Data, considerando as pepitas de ouro para o propósito almejado pela a empresa em questão.
+
+O processo de mineração de dados
+O processo de mineração de dados é formado por quatro etapas principais que precisam estar em sintonia para que os resultados sejam positivos.
+
+Vejamos a seguir quais são elas:
+
+1. Definição do objetivo
+Toda empresa precisa de um planejamento estratégico para controlar suas operações com foco em metas de curto, médio e longo prazo. 
+
+O processo de mineração de dados é analítico e precisa estar de acordo com essa premissa. Ou seja, é necessário estabelecer um alinhamento entre ele e a estratégia geral.
+
+Considerando esse aspecto, o primeiro passo é pensar como a mineração de dados pode ser utilizada para avançar nos objetivos gerais do negócio. 
+
+Fazendo essa análise, será possível definir qual problema será resolvido com a mineração de dados, que tipo de informação útil a empresa está procurando.
+
+2. Exclusão de redundâncias
+A segunda fase do processo de mineração de dados é reduzir dados duplicados e redundantes. 
+
+Dessa forma, os dados realmente pertinentes são integrados, através de uma análise separada das fontes de informação.
+
+Nessa fase ainda há muita informação misturada e distante do objetivo inicial. Portanto, é importante estabelecer parâmetros que definirão a utilidade da informação, para que o processo possa seguir para a próxima etapa.
+
+3. Limpeza de dados
+A próxima etapa é a limpeza de dados, que de fato utilizará os parâmetros definidos anteriormente como forma de limpar o que não é útil e que apresenta algum problema, como dados errados ou inseridos mais de uma vez.
+
+Assim, nesta fase restará apenas o que realmente for considerado como potencialmente interessante para o negócio, informação essa que pode ser as idades dos usuários ou a região onde moram, por exemplo.
+
+4. Mineração de dados
+Esta é a fase final da mineração de dados, o ponto crucial para o sucesso do procedimento. Tendo as informações selecionadas pelas etapas anteriores, que filtraram e trataram os dados recolhidos, é o momento de utilizar técnicas para relacionar os resultados.
+
+Em seguida, as relações estabelecidas poderão ser avaliadas seguindo os objetivos definidos lá no início, identificando padrões úteis para o negócio.
+
+Principais técnicas de mineração de dados
+Para relacionar as informações obtidas em vista de um propósito único, é preciso utilizar alguma técnica geral que orientará a mineração de dados. Abaixo listamos algumas das principais técnicas utilizadas pelas empresas:
+
+Classificação
+A classificação é usada para definir um tipo de cliente, item ou objeto, a partir da identificação de atributos de uma classe. 
+
+Aplicando a clientes, por exemplo, eles podem ser classificados por idade, classe social, região onde vivem, tipo de emprego, entre outros.
+
+Para desenvolver um novo produto, como um smartphone, pode-se fazer uma classificação que considere o sistema operacional, a resolução da câmera, a extensão do display, entre outros aspectos.
+
+A classificação também é muito utilizada como complemento às outras técnicas que veremos a seguir.
+
+Associação ou relação
+A técnica de associação ou relação é provavelmente a técnica de mineração de dados mais conhecida. Nela, é estabelecida uma relação simples entre os itens analisados, buscando identificar padrões.
+
+Podemos pensar no caso da compra em e-commerce, por exemplo, em que os sites normalmente fazem uma sugestão de compra que complementa o item já adquirido. 
+
+Isso acontece porque se muitos clientes que compram um celular também compram um fone de ouvido, sempre que um celular for comprado por um novo cliente, também será sugerido para ele o fone de ouvido.
+
+Armazenamento em cluster
+Primeiramente, precisamos entender o que é cluster. Cluster é um termo que designa um conjunto de computadores interligados, formando praticamente um único sistema.
+
+Na técnica de mineração de dados de armazenamento em cluster, partes individuais de dados são armazenadas para então, a partir delas, ser gerada uma opinião sobre o conjunto geral da estrutura. 
+
+Assim, é possível, através desta técnica, identificar resultados relacionados e divergentes, partindo de correlações entre diferentes possibilidades, que permitem identificar concordâncias entre semelhanças e diferenças.
+
+Previsão
+A previsão é uma outra técnica de mineração de dados utilizada para identificar falhas e até fraudes, assim como fazer uma previsão de lucros da empresa.
+
+Geralmente é uma técnica utilizada em conjunto com outras técnicas, pois sua previsão é embasada em análise de tendências, classificação, reconhecimento de padrões e suas relações. 
+
+A partir de análises de dados antigos é possível realizar uma previsão.
+
+Árvore de decisão
+A árvore de decisão é uma estratégia que se relaciona com grande parte das outras técnicas, especialmente classificação e previsão.
+
+Isso acontece pois ela é usada como parte dos critérios de seleção de uma estrutura geral. 
+
+Primeiramente, a estratégia começa com uma questão simples com poucas opções de resposta. Cada uma destas respostas leva a outra questão mais específica que ajuda a classificar ou identificar padrões.
+
+A partir disso é possível, por exemplo, definir previsões para cada cenário de acordo com cada resposta.
+
+Padrões sequenciais
+Padrões sequenciais é um método de mineração de dados utilizada mais a longo prazo.
+
+As empresas podem utilizá-lo para identificar tendências anuais de compra, por exemplo. Através da observação de ocorrências regulares, é possível observar quando determinada categoria de produto é mais vendida em determinada época do ano.
+
+Essa informação é útil para ser agregada a uma sugestão na cesta de compras no e-commerce ou para investir na criação e promoção de uma campanha de marketing de determinada marca, por exemplo
+
+Importância da mineração de dados para empresas
+Como já tivemos uma ideia ao observar as técnicas acima, a mineração de dados é um procedimento complexo, mas que se tornou essencial.
+
+A tecnologia avançou no armazenamento de dados e, o que há alguns anos atrás era visto como desnecessário e perda de tempo, hoje já se mostra como uma oportunidade de atingir o público que realmente se interessa pelo seu produto.
+
+Identificar padrões que sejam relevantes para uma empresa é uma estratégia útil para empresas de qualquer segmento. 
+
+Uma loja de roupas pode saber o perfil de cliente que mais se interessa por seus produtos, assim como o padrão pode revelar que clientes com salários médios anuais mais baixos têm maior chance de serem inadimplentes em empréstimos. 
+
+Consequentemente, essas informações podem ajudar o gerente de marketing a elaborar uma estratégia de divulgação mais personalizada ou uma modalidade de empréstimo mais eficaz para futuros clientes.
+
+Junto a isso, é possível antecipar demandas de acordo com dados anteriores, principalmente em épocas como Black Friday e feriados como Páscoa e Natal.
+
+Além de analisar informações sobre a própria empresa, a mineração de dados também permite uma visão da concorrência. 
+
+Sabendo o que o público aprovou ou não, você já estará otimizando o processo de aproveitamento dessas informações para que as campanhas do seu negócio possam atingir o público mais positivamente no futuro.
+
+Em suma, podemos dizer que a importância da mineração de dados para as empresas se dá no cumprimento de três funções principais:
+
+Previsão e prevenção de risco
+Quando a análise de dados procura compreender porque determinada estratégia deu errado e evitar que isso aconteça novamente.
+
+Por exemplo, você tem uma loja on-line e percebeu que o número de visitantes que conferiu um produto mas não efetuou a compra é maior do que o número de pessoas que de fato compraram. 
+
+Assim, é possível repensar o preço ou criar uma nova oferta, além de tomar decisões mais assertivas em relação ao estoque daquele produto. 
+
+Agrupamento
+Como vimos anteriormente, os agrupamentos feitos através dos dados fornecidos pelos clientes permitem que as empresas agrupem os usuários de diversas formas.
+
+Isso é muito eficaz para atingir o público com ofertas específicas e mais personalizadas, com chances mais altas de obterem sucesso.
+
+Análise de comportamento
+A mineração de dados permite identificar os estímulos a que cada público responde com mais frequência. 
+
+As empresas podem definir, por exemplo, qual dia e horário da semana os e-mails enviados são acessados em maior número, assim como o horário de maior tráfego no site. 
+
+É possível, ainda, traçar estratégias de como aumentar o alcance das publicações das redes sociais e, consequentemente, conquistar mais público.
+
+Assim, a mineração de dados permite resolver problemas que prejudicam o desempenho da empresa.
+
+O papel da TI na mineração de dados
+Como vimos, a mineração de dados envolve técnicas de estatística e machine learning para definir parâmetros de comportamento de clientes.
+
+Estas técnicas podem e são muito comumente utilizadas em conjunto, dependendo dos objetivos que a empresa busca alcançar. Mas como ter o entendimento necessário para definir como essas estratégias serão integradas?
+
+Profissionais de TI que trabalham com ciência de dados, por exemplo, acabam tendo perspectivas de carreira muito promissoras, com salários bem altos.
+
+Ainda que a tecnologia consiga processar muitas coisas para além da capacidade humana, como é o caso da mineração de dados, seria um equívoco dizer que todo esse processo pode acontecer de forma independente, sem nenhuma intervenção do homem.
+
+Em cada etapa do processo de mineração de dados, é essencial a presença de uma analista da área de TI, que estude o modelo de técnica utilizada, fazer relatórios e atuar como o mecanismo de decisão para que a empresa atinja um bom ROI.
+
+Em outras palavras, a mineração de dados deve ser gerida por uma equipe especializada e preparada, pois sem a orientação correta, os dados de que a organização realmente precisa não serão coletados como o esperado.

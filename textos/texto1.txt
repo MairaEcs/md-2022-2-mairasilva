@@ -1,0 +1,191 @@
+Mineração de dados: afinal, como funciona o data mining?
+Você sabe o que é mineração de dados? Veja como a área auxilia o crescimento das empresas e por que existem boas oportunidades profissionais!
+A mineração de dados é uma das tendências da Tecnologia da Informação, encontrando espaço em diversos setores, como comunicação, educação e negócios. Trata-se de uma excelente disciplina para obter a sua graduação e iniciar uma carreira de sucesso. 
+
+No entanto, ainda existem muitas dúvidas sobre o tema. Afinal de contas, o que é mineração de dados? Como é o mercado de trabalho do segmento? De que forma se qualificar para trabalhar na área? Como escolher o curso superior? 
+
+Logo abaixo, respondemos às principais dúvidas para que você conheça a área de atuação e avalie se é o melhor caminho para sua carreira. Continue a leitura e confira o nosso guia completo sobre mineração de dados!
+
+O que é mineração de dados?
+A mineração de dados é a aplicação da metodologia de pesquisa estatística e de técnicas computacionais com o objetivo de descobrir padrões e tendências úteis em bancos de dados. Isso ocorre pela combinação de ferramentas matemáticas com inovações tecnológicas, como a inteligência artificial e o machine learning.
+
+Imagine uma empresa que detém a relação de compras dos seus clientes nos últimos meses. Sem o devido tratamento, haverá apenas um amontoado de informações aleatórias. No entanto, quando identificamos características em comum e prevemos que determinado tipo de consumidor compra mais o produto “X”, elas ganham utilidade. 
+
+Nesse sentido, o papel da tecnologia é dar a escala necessária para avaliar grandes volumes de dados. Isto é, aquilo que um ser humano poderia calcular e identificar em uma pequena lista de informações, os softwares aplicam em milhões de dados.
+
+Para isso, são criadas funções matemáticas e programas de computador que sejam capazes de identificar os padrões. Além disso, existe o profissional que tomará as providências, usando a tecnologia disponível, que são os cientistas de dados e os analistas de inteligência de negócios (business intelligence), em regra.
+
+Big data, data warehouse e mineração de dados
+A expressão convive e, muitas vezes, se confunde com a big data e a data warehouse. A primeira se refere à existência de grandes volumes de dados, enquanto a segunda é o repositório centralizado em que as informações estão armazenadas, que podem vir de diversas fontes. 
+
+Uma analogia ajuda a entender a diferença. Visualize uma praia. A big data seria equivalente à areia, enquanto a warehouse seria a porção de terra em que ela está armazenada. Já o data mining, a mineração de dados, é como passar o detector de metais pelo local em busca de tesouros escondidos. 
+
+Inteligência artificial e machine learning 
+As ferramentas de inteligência artificial são bastante frequentes para realizar o trabalho de mineração. Com ela, simulamos faculdades humanas, como entender padrões, fazer associações, identificar regras, elaborar hipóteses e cogitar eventos futuros.
+Já o machine learning vai uma pouco além e simula nossa capacidade de aprendizado, de modo que a inteligência artificial modifique suas ações futuras com base em eventos passados. Em muitos casos, ambas as tecnologias são estruturadas para se assemelharem às redes de neurônios do nosso cérebro.
+
+Data mining ao longo da história 
+A mineração de dados é consequência de uma longa cadeia de descobertas nas Ciências Exatas e da Computação. Algumas técnicas da estatística, como o Teorema de Bayes (1763) e a Análise de Regressão (1805), foram criadas há mais de 200 anos e compõem o conjunto de ferramentas utilizadas no data mining. 
+
+Em relação à Tecnologia da Informação, a primeira empresa a usar as ferramentas similares às que usamos hoje foi a Decision Science Inc. A organização, fundada em 1956, aplicava a computação evolutiva — caracterizada por algoritmos que simulam a evolução biológica — para resolver problemas do mundo real. 
+
+Na década de 1970 houve significativos avanços em relação à tecnologia de armazenagem, de modo que já era possível alcançar os petabytes de dados (1000000 gigabytes por unidade). Em 1975 o cientista John Henry Holland escreveu “Adaptação em sistemas naturais e artificiais”, sendo reconhecido ainda hoje pela criação dos algoritmos genéticos, que são a base dos sistemas de inteligência artificial. 
+
+No entanto, a expressão “mineração de dados” ou “data mining” se tornou conhecida na década de 1990. Foi o momento em que as ferramentas chamaram a atenção do mundo dos negócios, principalmente em relação à identificação dos hábitos de consumo e auxílio à definição de estratégias empresariais. 
+
+Mais recentemente, as tecnologias de big data, cloud computing, inteligência artificial, machine learning e redes neurais se consolidaram. Hoje, além de elas contarem com maior nível de desenvolvimento e poder de computação, a acessibilidade melhorou bastante, de modo que mesmo organizações menores conseguem tomar decisões baseadas em dados. 
+
+Por que a mineração de dados está em alta?
+As empresas de hoje enxergam a necessidade de desenvolver riquezas que não são materiais, como conhecimento, competências, marca etc. Nesse cenário, causado principalmente pelos avanços científicos e tecnológicos, houve uma mudança na importância dos fatores de produção, dando prevalência ao capital humano, estrutural e intelectual em relação aos recursos financeiros e materiais. 
+
+O capital humano é representado pelo conjunto de competências presentes nas pessoas na empresa. Já o estrutural contém os processos, sistemas, patentes, métodos de trabalho, cultura e outros elementos de informação e conhecimento documentados, e pertencentes à organização. Por fim, o intelectual é a soma de ambos, representando o conjunto de conhecimento e informação das empresas. 
+
+Esse último pode ser ainda mais importante do que os recursos materiais e financeiros. Uma fabricante de celulares pode, por exemplo, tomar um empréstimo bancário e terceirizar a produção. Porém, sem o trabalho de marca, registro de patentes do smartphone e conhecimento para produzir, dificilmente entrará no mercado. 
+
+O efeito é que o data mining entrega valor para as empresas. Com isso, nascem as oportunidades para os especialistas da área. Os graduados em Banco de Dados são procurados porque aumentam o capital intelectual, aportando conhecimento para tomar decisões, desenvolver estratégias, identificar oportunidades etc. 
+
+Quais são os recursos da mineração de dados?
+O data mining coloca uma série de ferramentas à disposição das empresas, que podem ser utilizadas para desenvolver novos produtos, serviços, processos etc. Além disso, ela é aplicável nas áreas acadêmicas e científicas, principalmente para elaborar pesquisas mais precisas com base em dados e evidências. 
+
+Análise preditiva 
+O primeiro recurso interessante para as organizações é a análise preditiva. Nela, usamos as informações para, a partir da estatística, projetar as probabilidades de ocorrência de eventos futuros.
+
+Análise descritiva
+Outra aplicação importante é análise descritiva. Esse recurso se caracteriza pelo entendimento e explicação dos dados existentes. É, portanto, uma forma de gerar conhecimento para a organização.
+
+Análise diagnóstica 
+Por sua vez, na análise diagnóstica, partimos de um problema e tentamos entender as suas causas. Dessa maneira, seremos capazes de pensar providências mais eficazes, a partir do entendimento das raízes das consequências. 
+
+Análise prescritiva
+Já o papel da análise prescritiva é usar os padrões e tendências identificados para sugerir medidas. Normalmente, ela é fruto da etapa de avaliação dos resultados da mineração de dados, que será explicada mais à frente. 
+
+Criação de informação orientada para a decisão
+As atividades são orientadas para o processo decisório. Isto é, a ideia é transformar as informações que, sem a mineração, seriam desconexas e aleatórias, em padrões que possam ser entendidos e aplicados pelo gestor. 
+
+Como a mineração de dados é feita?
+As atividades de mineração de dados são semelhantes a uma pesquisa científica, mesmo quando realizadas em outros ambientes. Parte-se de um problema, investigando suas causas e indo atrás de resoluções. O diferencial é a maneira como os dados são trabalhados: a ideia-mãe é transformar dados em conhecimento. 
+
+Um dos modelos mais conhecidos sobre como fazer a mineração de dados é atribuído ao cientista Usama Fayyad. O especialista americano sugere 5 etapas. Veja abaixo.
+
+Seleção 
+O primeiro passo é delimitar dentro da big data quais são as partes dos dados existentes que interessam para pesquisa. Geralmente, isso depende da definição clara dos objetivos gerais e específicos do procedimento.
+
+Processamento 
+A seguir, são tomadas providências para otimizar o trabalho. A atividade, também chamada de pré-processamento ou limpeza, busca minimizar ou eliminar dados duplicados, corrompidos, falsos, inseridos erroneamente, pouco variados, entre outros problemas. 
+
+Transformação
+Por sua vez, a transformação é um processo de organização com o objetivo de criar dados estruturados. Um dado estruturado é aquele classificado de tal forma que pode ser recuperado posteriormente. 
+
+Mineração de Dados
+O passo seguinte é a mineração propriamente dita. Nela, aplicamos técnicas de estatística, inteligência artificial e machine learning para encontrar os padrões dentro dos dados estruturados.
+
+Interpretação e Avaliação
+Os dados reduzidos a padrões são analisados pelos interessados, buscando informações úteis para tomar decisões. É como o trabalho do médico que, a partir dos indicadores presentes nos exames do paciente, produz um diagnóstico e entende a doença do paciente. 
+
+Conhecimento
+A etapa final é o uso do conhecimento adquirido para tomar decisões, aplicar medidas corretivas, conceder recompensas baseadas em desempenho, entre outras consequências para os resultados.
+
+Técnicas de mineração de dados
+Durante cada etapa, existem técnicas que podem ser aplicadas no tratamento, seleção, organização e interpretação dos dados. Veja exemplos que ilustram as atividades do profissional da área. 
+
+Induzimento de regra
+Descobre-se a relação provável ou necessária entre dois elementos. Por exemplo, se a presença da pipoca média no cinema leva as pessoas a comprarem mais da pipoca grande. 
+
+Classificação
+Distribuem-se os registros em categorias, a partir de uma função matemática que permita associar elementos com características em comum. É o caso, por exemplo, de separar os praticantes de musculação dos praticantes de dança em uma academia, de modo que, em ambas categorias, haverá características similares entre os integrantes.
+
+Clusterização
+Dividem-se as categorias em subgrupos, buscando o máximo de similaridade entre os elementos internos e de diferenciação entre as categorias. Por exemplo, entre os praticantes de dança, podemos separar os praticantes da manhã e da noite para analisar os padrões de cada subgrupo e sugerir novos serviços.
+
+Árvore de decisão
+Corresponde à distribuição das decisões e probabilidades dos eventos em ramificações, como se fossem as raízes de uma árvore. Imagine que você pode almoçar ou comer em um restaurante, além de que a probabilidade de gostar da comida fora de casa seja de 70% e, dentro de casa, de 50%. A árvore de decisão ficaria assim: 
+
+onde almoçar (decisão);
+em casa (ramificação); 
+50% — gostar da comida (desfecho);
+50% — não gostar da comida (desfecho); 
+fora de casa (ramificação); 
+70% — gostar da comida (desfecho); 
+30% — não gostar da comida 50% (desfecho). 
+Redes neurais
+São uma tecnologia que simula o funcionamento do cérebro dos animais. Nessa técnica, diversas unidades de processamento são conectadas, formando um sistema complexo. A ideia é, a partir de modificações nessas unidades, possibilitar o aperfeiçoamento da máquina, como se ela fosse capaz de aprender com a experiência. 
+
+Visualização 
+Trata-se de traduzir o padrão encontrado para o interessado, com elementos visuais, como gráficos, infográficos, quadros, apresentações etc. É o caso, por exemplo, dos cientistas de dados elaborarem um relatório com as sugestões de oportunidades para desenvolvimento de novos produtos para o gestor. 
+
+Qual é a importância da mineração de dados? 
+A mineração de dados já trouxe inovações em diversas áreas, abrindo oportunidades para os profissionais qualificados, como analistas de Business Intelligence (BI) e cientistas de dados.
+
+Na prática, somos capazes enxergar novas soluções, produtos, serviços e oportunidades, que estavam escondidas em grandes volumes de dados, a partir do trabalho desses especialistas. 
+
+Comércio
+No comércio, por exemplo, somos capazes de entender os critérios de compra, interesses e características dos nossos consumidores. Isso leva a estratégias mais efetivas e feedbacks que serão úteis na hora de pensar em estratégias, produtos e serviços. 
+
+Recursos Humanos
+O data mining já é bastante utilizado para encontrar padrões em currículos e candidaturas realizadas para os processos seletivos das empresas. Além disso, ele amplia a capacidade de realizar pesquisas internas para avaliar questões como qualidade do ambiente de trabalho e perfil dos profissionais da empresa.
+
+Gestão de processos
+A partir da mineração de dados é possível realizar um mapeamento mais adequado dos custos de processos logísticos e produtivos. Logo, as empresas podem aplicar medidas para evitar desperdícios, retrabalho e minimizar as despesas. 
+
+Pesquisa acadêmica 
+Já no segmento acadêmico, abre-se uma nova maneira de realizar estudos e testar hipóteses. É possível processar um grande volume de informações, dando mais precisão aos resultados estatísticos alcançados, projetando cenários, fazendo a análise diagnóstica, entre outras atividades. 
+
+Instituições financeiras 
+Os bancos e lojas de crédito estão entre os maiores usuários do data mining. Com a mineração de dados, eles identificam as características do cliente, o que aumenta os riscos de inadimplemento, tornando as avaliações de crédito mais eficientes. 
+
+Jurídico
+Na área jurídica, as técnicas são bastante utilizadas para identificar decisões judiciais. Por exemplo, se o advogado deseja saber se há julgamentos favoráveis ao seu cliente, ele pode pesquisar em bancos de dados públicos por casos similares. 
+
+Medicina
+Na Medicina, os diagnósticos e estudos se tornam mais precisos e abrangentes ao avaliarem um número maior de fatores. Hábitos, exames físicos e psicológicos, histórico, tratamentos anteriores: podemos extrair diversas visões sobre o conhecimento para ajudar os pacientes atuais e desenvolver novas técnicas para tratar doenças no futuro. 
+
+Como trabalhar com mineração de dados?
+A variedade de áreas que utilizam da mineração torna o profissional cada vez mais valorizado — e o mercado de dados é um dos mais aquecidos. No Guia Salarial da Robert Half de 2020, podemos verificar a evolução dos salários no segmento à medida que o analista cresce na carreira: 
+
+especialista/cientista de dados — R$ 13.100,00 a R$ 26.700,00; 
+especialista de BI — R$ 10.500,00 a R$ 20.450,00;
+analista de BI sênior — R$ 8.500,00 a R$ 17.300,00; 
+analista de BI pleno — R$ 6.200,00 a R$ 12.550,00;
+analista de BI júnior — R$ 3.850,00 a R$ 7.850,00. 
+Para se destacar no trabalho e alcançar as melhores posições, o profissional precisa desenvolver uma série de competências técnicas e comportamentais. Diferenciais importantes são os conhecimentos de estatística, bancos de dados, técnicas de data mining e das tendências da área, como inteligência artificial e machine learning.
+
+Capacidade de aprender 
+Além disso, como o segmento de tecnologia está em constante evolução, a capacidade de aprender é um ativo valioso para ter destaque. Afinal, se o contexto muda e o profissional permanece parado, rapidamente ele perde relevância. Logo, mesmo depois de formado você deve sempre continuar os estudos.
+
+Empreendedorismo
+Outra habilidade importante é o empreendedorismo. Em muitas situações, os analistas são chamados para identificar problemas e propor soluções, e ter visão empreendedora facilita principalmente as etapas de avaliação dos resultados. 
+
+Comunicação e trabalho em equipe
+A comunicação e trabalho em equipe também contribuem para o sucesso na área. Além da de compartilhar informações e colaborar dentro do time, o profissional de mineração de dados precisa escutar as demandas e traduzir os resultados das análises para os demais setores das empresas. 
+
+Formação de nível superior
+Tais skills, técnicas e perfis comportamentais podem ser desenvolvidas durante o curso superior. Hoje, já é possível fazer a formação específica para trabalhar com Banco de Dados e atuar nos segmentos que utilizam a mineração de dados.
+
+O que é o curso de Banco de Dados? 
+O curso superior em Banco de Dados é o mais indicado para quem deseja atuar com mineração de dados. A formação pode ser feita pelas pessoas que conquistaram o diploma do ensino médio, ou seja, não é uma pós-graduação, mas uma faculdade.
+
+A duração é de 2 anos e 6 meses. O tempo menor para concluir o curso ocorre porque o tecnólogo é uma formação mais específica. Em vez de explorar as Ciências da Computação de forma geral, ou seja, tanto o que você usará na prática como conteúdos que serão deixados de lado, a qualificação prioriza e aprofunda os temas da disciplina escolhida. 
+
+A grade curricular do curso da Unyleya é bastante completa dentro desse propósito. Ao longo de cinco semestres, você aprenderá diversas competências. Veja algumas:
+
+Matemática Básica e Estatística; 
+Lógica de Programação e Algoritmos, Sistemas Operacionais e Arquitetura de Computadores; 
+Bancos de dados, Big Data, Mineração de Dados e Análise Preditiva; 
+Teoria Geral da Administração, Gestão de Projetos e Gestão do Conhecimento; 
+Linguagem, Comunicação e Empreendedorismo. 
+O curso está disponível na modalidade a distância, que é mais flexível e desenvolve a autonomia do profissional. Nele, você acessa o ambiente virtual de aprendizado (AVA) e estuda por meio de conteúdos multimídia, como textos, vídeos, apostilas e biblioteca virtual. Além disso, existem fóruns e atendimento individual com professores para que você consiga tirar dúvidas e comunicar-se com os colegas de curso. 
+
+Vale ressaltar que a faculdade também oferece outras oportunidades, além do segmento de mineração de dados e business intelligence. Você pode, por exemplo, atuar como analista de bancos de dados e segurança da informação.
+
+Como escolher o melhor curso de Banco de Dados? 
+Decisões importantes, como escolher sua faculdade, precisam ser tomadas com cautela. Os principais cuidados ao decidir sobre a graduação dizem respeito à qualidade do material disponibilizado aos alunos e ao reconhecimento do diploma.
+
+É importante buscar instituições de ensino com um excelente corpo docente e que tenha boa reputação junto aos empregadores. Ademais, você deve levantar informações sobre a jornada do aluno na graduação em Banco de Dados: disciplinas, atividades práticas, material oferecido etc.
+
+No caso da EAD, o domínio da ferramenta pela instituição de ensino é fundamental. O curso a distância precisa ser otimizado para que o aluno tenha a melhor experiência, contar com metas de aprendizado e oferecer suporte aos graduandos. Isto é, não é a simples mudança do material para o online.
+
+Lembre-se, nesse sentido, de que o segmento de banco de dados é bastante técnico, e o crescimento de carreira dependerá principalmente da capacidade de oferecer soluções para os contratantes. Assim, uma boa faculdade é fundamental para desenvolver competências e ter sucesso na área.
+
+Por isso, o curso superior em Banco de Dados é o caminho ideal para você se formar e confiar nas suas habilidades profissionais. A Unyleya é líder no segmento de ensino a distância e reúne a especialização necessária para que você tenha a melhor experiência com ensino e torne-se um profissional desejado pelas empresas.
+
+Se você tiver dúvidas sobre como funciona a EAD, leia também o nosso ebook ”Educação a distância: o Guia Definitivo para otimizar os seus estudos”!
